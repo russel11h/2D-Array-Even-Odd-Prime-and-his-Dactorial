@@ -1,1 +1,1 @@
-# 2D-Array-Even-Odd-Prime-and-his-Dactorial
+# 2D-Array-Even-Odd-Prime-and-his-factorial
